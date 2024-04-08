@@ -24,3 +24,5 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 
 <h3>Requisitos não-funcionais</h3>
 ✔️ O check-in no evento será realizado através de um QRCode
+
+## Documentação da API (Swagger)
