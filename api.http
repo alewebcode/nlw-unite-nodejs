@@ -1,0 +1,38 @@
+POST http://localhost:3333/events
+Content-Type: application/json
+
+
+{
+    "title":123,
+    "details":null,
+    "maximumAttendees":1
+}
+
+
+###
+
+POST http://localhost:3333/events/8871db57-6abd-4e10-80c3-a6cb9ef8f923/attendees
+Content-Type: application/json
+
+
+{
+    "name":"Alexandre",
+    "email":"ale1.santiagoweb@gmail.com"
+}
+
+###
+GET http://localhost:3333/events/8871db57-6abd-4e10-80c3-a6cb9ef8f923
+Content-Type: application/json
+
+
+###
+GET http://localhost:3333/attendees/1/badge
+Content-Type: application/json
+
+###
+GET http://localhost:3333/attendees/1/check-in
+Content-Type: application/json
+
+###
+GET http://localhost:3333/events/d008abcf-a0b7-4363-a031-26a9439a2dec/attendees?query=Abel
+Content-Type: application/json
