@@ -16,3 +16,11 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 ✔️ O participante deve poder se inscrever em um evento<br/>
 ✔️ O participante deve poder visualizar seu crachá de inscrição<br/>
 ✔️ O participante deve poder realizar check-in no evento
+
+<h3>Regras de negócio</h3>
+✔️ O participante só pode se inscrever em um evento uma única vez<br/>
+✔️ O participante só pode se inscrever em eventos com vagas disponíveis<br/>
+✔️ O participante só pode realizar check-in em um evento uma única vez<br/>
+
+<h3>Requisitos não-funcionais</h3>
+✔️ O check-in no evento será realizado através de um QRCode
