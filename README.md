@@ -10,9 +10,9 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 ## Requisitos
 
 ## Requisitos funcionais
-✔️ <p>O organizador deve poder cadastrar um novo evento</p>
-✔️ O organizador deve poder visualizar dados de um evento
-✔️ O organizador deve poser visualizar a lista de participantes
-✔️ O participante deve poder se inscrever em um evento
-✔️ O participante deve poder visualizar seu crachá de inscrição
+✔️ O organizador deve poder cadastrar um novo evento<br/>
+✔️ O organizador deve poder visualizar dados de um evento<br/>
+✔️ O organizador deve poser visualizar a lista de participantes<br/>
+✔️ O participante deve poder se inscrever em um evento<br/>
+✔️ O participante deve poder visualizar seu crachá de inscrição<br/>
 ✔️ O participante deve poder realizar check-in no evento
