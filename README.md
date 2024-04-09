@@ -27,9 +27,9 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 ✔️ O check-in no evento será realizado através de um QRCode
 
 ## ✨ Tecnologias utilizadas
-NodeJs
-TypeScript
-Fastify
+NodeJs<br/>
+TypeScript<br/>
+Fastify<br/>
 Prisma
 
 ## Documentação da API (Swagger)
