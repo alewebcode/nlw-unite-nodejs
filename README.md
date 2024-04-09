@@ -26,5 +26,11 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 <h3>Requisitos não-funcionais</h3>
 ✔️ O check-in no evento será realizado através de um QRCode
 
+## ✨ Tecnologias utilizadas
+NodeJs
+TypeScript
+Fastify
+Prisma
+
 ## Documentação da API (Swagger)
 https://nlw-unite-nodejs-h1jj.onrender.com/docs
