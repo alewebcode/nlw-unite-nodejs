@@ -1,5 +1,6 @@
-pass.in
-O pass.in é uma aplicação de gestão de participantes em eventos presenciais.
+![image](https://github.com/alewebcode/nlw-unite-nodejs/assets/2896461/e3b36ee6-863b-4fba-a15a-9d7b3e284efe)
+
+No NLW unite desenvolvemos o Pass.in, que é uma aplicação de gestão de participantes em eventos presenciais.
 
 A ferramenta permite que o organizador cadastre um evento e abra uma página pública de inscrição.
 
